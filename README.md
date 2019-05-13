@@ -3,11 +3,13 @@ Biblioteca de testes API em PHP.
 
 ## Download
 IDE - [VSCODE](https://code.visualstudio.com/Download).
+
 PHP7+ - [PHP-7.3.5](https://windows.php.net/downloads/releases/php-7.3.5-Win32-VC15-x64.zip).
 
 ## Instalação
 
 Acrescentar no PATH em Variáveis de Ambiente o caminho do executável do PHP.
+
 Quando executado o a código abaixo pelo prompt de comando, aparecerá informações do php.
 ```bash
 php -v
@@ -15,7 +17,9 @@ php -v
 
 ## Extensões
 Acrescentar no VSCode,
+
 	[PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense).
+	
 	[Bootstrap 4](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
 ## Como Usar
