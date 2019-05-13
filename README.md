@@ -2,9 +2,9 @@
 Biblioteca de testes API em PHP.
 
 ## Download
-IDE - [VSCODE](https://code.visualstudio.com/Download).
+IDE - [VSCODE](https://code.visualstudio.com/Download)
 
-PHP7+ - [PHP-7.3.5](https://windows.php.net/downloads/releases/php-7.3.5-Win32-VC15-x64.zip).
+PHP7+ - [PHP-7.3.5](https://windows.php.net/downloads/releases/php-7.3.5-Win32-VC15-x64.zip)
 
 ## Instalação
 
@@ -23,9 +23,9 @@ php -v
 ## Extensões
 Acrescentar no VSCode,
 
-	[PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense).
-	
-	[Bootstrap 4](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+Para uso da linguagem: [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense)
+
+Para estruturação HTML: [Bootstrap 4](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
 
 ## Como Usar
 Navegar pelo prompt até a pasta do projeto onde se encontra o "index.php",
