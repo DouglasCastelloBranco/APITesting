@@ -1,9 +1,3 @@
-# PHP
-https://windows.php.net/downloads/releases/php-7.3.5-Win32-VC15-x64.zip
-# BOOTSTRAP
-Search and install by "Extensions" in vscode
-
-
 # API CONSUMPTION TESTS
 Biblioteca de testes API em PHP.
 
