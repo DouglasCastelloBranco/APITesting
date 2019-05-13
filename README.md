@@ -8,9 +8,14 @@ PHP7+ - [PHP-7.3.5](https://windows.php.net/downloads/releases/php-7.3.5-Win32-V
 
 ## Instalação
 
-Acrescentar no PATH em Variáveis de Ambiente o caminho do executável do PHP.
+Acrescentar no PATH em Variáveis de Ambiente o caminho do executável do PHP baixado acima.
 
-Quando executado o a código abaixo pelo prompt de comando, aparecerá informações do php.
+Exemplo,
+```bash
+C:\Program Files\Php7\
+```
+
+Quando executado o código abaixo, aparecerá informações do php.
 ```bash
 php -v
 ```
